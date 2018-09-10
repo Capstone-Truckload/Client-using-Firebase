@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969182137727",
+    "firebase_url": "https://truckloadbooking-9db69.firebaseio.com",
+    "project_id": "truckloadbooking-9db69",
+    "storage_bucket": "truckloadbooking-9db69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969182137727:android:915f87f38c6b2a65",
+        "android_client_info": {
+          "package_name": "com.example.zevins.truckingloadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969182137727-luv1r1rokogh1l3dh9lathr9t3cbmvc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zevins.truckingloadapp",
+            "certificate_hash": "3d14325e212e702932eca687cc532871560a1f5a"
+          }
+        },
+        {
+          "client_id": "969182137727-onvgbjvq2bts9otkju6fcjl37h6f6flm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDokKX3bk5DVq5q76b1VXVHfF_nZXnCt8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969182137727-onvgbjvq2bts9otkju6fcjl37h6f6flm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
